@@ -16,4 +16,4 @@
 ![Marketing](Marketing.png)
 
 ### Supply Chain
-![Supply Chain](Supply chain.png)
+![Supply Chain](Supplychain.png)

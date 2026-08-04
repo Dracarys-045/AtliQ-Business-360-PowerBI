@@ -10,7 +10,7 @@
 ![Finance](Finance.png)
 
 ### Sales
-![Sales](Sales.png)
+![Sales](sales.png)
 
 ### Marketing
 ![Marketing](Marketing.png)
